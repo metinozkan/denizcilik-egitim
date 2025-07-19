@@ -1,32 +1,42 @@
-# Maritime Education - Legal Pages
+# Denizcilik Eğitimi - Yasal Sayfalar
 
-This repository contains the legal documents for the Maritime Education mobile application.
+Bu repository, Denizcilik Eğitimi mobil uygulaması için yasal belgeleri içerir.
 
-## Pages Included
+## Dahil Edilen Sayfalar
 
-- **Privacy Policy**: Comprehensive privacy policy covering data collection, usage, and user rights
-- **Terms of Service**: Complete terms governing app usage, premium features, and user responsibilities  
+- **Gizlilik Politikası**: Veri toplama, kullanım ve kullanıcı haklarını kapsayan kapsamlı gizlilik politikası
+- **Kullanım Şartları**: Uygulama kullanımı, premium özellikler ve kullanıcı sorumluluklarını yöneten koşullar
 
-## Live Site
+## Canlı Site
 
-The legal pages are hosted on GitHub Pages at: `https://[username].github.io/denizcilik-legal-pages/`
+Yasal sayfalar GitHub Pages'te şu adreste barındırılmaktadır:
+- **Ana Sayfa**: https://metinozkan.github.io/denizcilik-egitim/
+- **Gizlilik Politikası**: https://metinozkan.github.io/denizcilik-egitim/privacy-policy.html
+- **Kullanım Şartları**: https://metinozkan.github.io/denizcilik-egitim/terms-of-service.html
 
-## App Information
+## Uygulama Bilgileri
 
-**Maritime Education** is a comprehensive mobile learning platform offering:
-- Amateur navigation training & exam preparation
-- Sailing techniques and theory courses
-- Canoeing skills development modules
-- Windsurfing training programs
-- Interactive quizzes, simulations, and assessments
-- Progress tracking and certification features
+**Denizcilik Eğitimi** kapsamlı bir mobil öğrenme platformudur ve şunları sunar:
+- Amatör seyir eğitimi ve sınav hazırlığı
+- Yelken teknikleri ve teori kursları
+- Kano beceri geliştirme modülleri
+- Rüzgar sörfü eğitim programları
+- İnteraktif testler, simülasyonlar ve değerlendirmeler
+- İlerleme takibi ve sertifikasyon özellikleri
 
-## Contact
+## Üyelik Sistemi
 
-- **Email**: info@maritimeeducation.com
-- **Privacy**: privacy@maritimeeducation.com
-- **Legal**: legal@maritimeeducation.com
+Uygulama üyelik tabanlıdır:
+- Email ve şifre ile giriş
+- Eğitim materyallerine erişim için üyelik gereklidir
+- Galeri veya kamera izinleri gerekmez
+- App Store ve Play Store uyumlu
 
-## Last Updated
+## İletişim
 
-January 19, 2025
+- **Email**: metin.ozkn1@gmail.com
+- **Destek**: metin.ozkn1@gmail.com
+
+## Son Güncelleme
+
+19 Ocak 2025
